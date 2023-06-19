@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MERN_Project_Set2_Age_Calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/MERN_Project_Set2_Age_Calculator/static/js/main.5c536f91.js",
+    "static/js/787.1715cc32.chunk.js": "/MERN_Project_Set2_Age_Calculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/MERN_Project_Set2_Age_Calculator/index.html",
+    "main.e6c13ad2.css.map": "/MERN_Project_Set2_Age_Calculator/static/css/main.e6c13ad2.css.map",
+    "main.5c536f91.js.map": "/MERN_Project_Set2_Age_Calculator/static/js/main.5c536f91.js.map",
+    "787.1715cc32.chunk.js.map": "/MERN_Project_Set2_Age_Calculator/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c536f91.js"
+  ]
+}
